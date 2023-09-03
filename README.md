@@ -10,7 +10,7 @@
 	- Am utilizat distanta Levenshtein, care calculeaza distanta(numarul de
   	  diferente) dintre 2 cuvinte, iar daca exista 1-2 greseli de scriere,
 	  atunci cel mai probabil este un url de phishing
-	- Am verificat ca linkurile sa nu contine mai mult de 4 puncte (".")
+	- Am verificat ca linkurile sa nu contina mai mult de 4 puncte (".")
 	  si 3 liniute ("-").
 	- Am verificat sa nu aiba mai mult de 10% cifre in domeniu
 	- Am verificat sa nu fie un link din baza de date de linkuri malitioase 
