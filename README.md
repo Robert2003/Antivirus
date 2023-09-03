@@ -1,7 +1,7 @@
 #### Copyright Damian Mihai-Robert 312CAb 2022-2023
 
 ### Pentru taskul 1 am utilizat urmatoarele euristici:
-	- Am scris un algoritm care mi-a gasit extensii malitioase, bazandu-se pe
+	- Am scris un algoritm care a gasit extensii malitioase, bazandu-se pe
 	  setul de date primit, astfel am creat o baza de date de extensii rele.
 	  Daca vreuna din acele extensii se regasea la finalul linkului, acesta
 	  este malitios
